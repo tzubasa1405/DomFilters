@@ -58,3 +58,16 @@ thegfporn.com##a[href*="bet"]
 thegfporn.com##a[href*="vip"]
 thegfporn.com##div[class*="sponsor"]
 thegfporn.com##div[id^="banner"]
+thegfporn.com##.sidebar
+thegfporn.com##.right_sidebar
+thegfporn.com##.advertisement
+thegfporn.com##iframe[src*="vip"]
+thegfporn.com##iframe[src*="game"]
+thegfporn.com##a[href*="game66"]
+thegfporn.com##a[href*="ufa"]
+thegfporn.com##a[href*="lott"]
+thegfporn.com##a[href*="bet"]
+thegfporn.com##a[href*="viplive"]
+thegfporn.com##.popup-bottom
+thegfporn.com##.popup-top
+thegfporn.com##.popup-ad
