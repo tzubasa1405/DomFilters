@@ -43,3 +43,18 @@ javhd.today##a[href*="casino"]
 jav.guru##.ad-container
 jav.guru##a[href*="bonus"]
 jav.guru##a[href*="slot"]
+! Site: thegfporn.com
+thegfporn.com##.adsbygoogle
+thegfporn.com##.adslot
+thegfporn.com##.ads
+thegfporn.com##.advertisement
+thegfporn.com##.right_sidebar
+thegfporn.com##iframe[src*="vip"]
+thegfporn.com##iframe[src*="game"]
+thegfporn.com##a[href*="game66"]
+thegfporn.com##a[href*="lott"]
+thegfporn.com##a[href*="ufa"]
+thegfporn.com##a[href*="bet"]
+thegfporn.com##a[href*="vip"]
+thegfporn.com##div[class*="sponsor"]
+thegfporn.com##div[id^="banner"]
