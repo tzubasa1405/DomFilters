@@ -32,5 +32,3 @@
 ##iframe[src*="play.php"]
 ##iframe[src*="embed.php"]
 ##iframe[src*="ads"]
-##img[src*="/uploads/"]
-##img[src*=".gif"]
