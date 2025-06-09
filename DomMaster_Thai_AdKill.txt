@@ -1,18 +1,4 @@
 ! ===== DomMaster: Thai-AdKill Filters =====
-! Site: 037hd-movies.com
-037hd-movies.com##.adsbygoogle
-037hd-movies.com##.adslot
-037hd-movies.com##.banner
-037hd-movies.com##.banner-ads
-037hd-movies.com##.sponsor
-037hd-movies.com##.popup-bottom
-037hd-movies.com##.post-advertisement
-037hd-movies.com##div[id^="ad"]
-037hd-movies.com##a[href*="casino"]
-037hd-movies.com##a[href*="aff"]
-037hd-movies.com##a[href*="bonus"]
-037hd-movies.com##a[href*="slot"]
-037hd-movies.com##a[href*="register"]
 ! Custom Cosmetic Rules
 ##div[id*="banner"]
 ##div[class*="ads"]
@@ -28,3 +14,9 @@
 ##a[href*="ufabet"]
 ##a[href*="catcatbet"]
 ##a[href*="sexygame"]
+##iframe[src*="cdnstorage-"]
+##iframe[src*="play.php"]
+##iframe[src*="embed.php"]
+##iframe[src*="ads"]
+##img[src*="/uploads/"]
+##img[src*=".gif"]
